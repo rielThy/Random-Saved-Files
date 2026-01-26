@@ -1,5 +1,3 @@
-package taskTracker;
-
 import java.util.Scanner; //IMPORTING THE UTIL SCANNER
 
 public class ToDoListSystem {
@@ -577,3 +575,4 @@ public class ToDoListSystem {
         showGreetingMenu();
     }
 }
+
